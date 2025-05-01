@@ -24,9 +24,9 @@
 - 👯 Open to collaboration on **Creative Frontend Projects**
 - 💡 Want help deploying React projects to **GitHub with custom domains**
 - 🧠 All Projects: [webwizardry.epizy.com](http://webwizardry.epizy.com/)
-- ✍️ I blog at: [greenendeavour.org](http://greenendeavour.org/)
 - 💬 Ask me about: **React | Next.js | Web Animations**
 - 📫 Reach out: **sriyanshgupta24@gmail.com**
+- 📞 Call at **+91 6387562920**
 - ⚡ Fun Fact: _I turn ☕ into 💻 and transform pixels into 🎨 web masterpieces!_
 
 ---
